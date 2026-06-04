@@ -1,21 +1,85 @@
-MIT License
+BODY BUILDING — Proprietary License
+Copyright (c) 2026 Code1Sprint. All rights reserved.
 
-Copyright (c) 2026
+================================================================================
+IMPORTANT — READ BEFORE USING THIS SOFTWARE
+================================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and all associated source code, assets, documentation, and
+derivative materials (collectively, the "Software") are the exclusive property
+of Code1Sprint unless otherwise stated.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Website:  https://code1sprint.vercel.app/
+GitHub:   https://github.com/code1sprint
+
+--------------------------------------------------------------------------------
+1. GRANT OF RIGHTS
+--------------------------------------------------------------------------------
+
+NO rights are granted to any person or entity by default. You may NOT use,
+copy, modify, merge, publish, distribute, sublicense, sell, or otherwise
+exploit the Software, in whole or in part, without prior written permission
+from Code1Sprint (https://github.com/code1sprint).
+
+--------------------------------------------------------------------------------
+2. PERMISSION REQUIRED
+--------------------------------------------------------------------------------
+
+To obtain permission to use this Software for any purpose — including but not
+limited to personal projects, commercial products, client work, forks,
+redistribution, or public deployment — you MUST request and receive explicit
+written approval from Code1Sprint before any use.
+
+Contact Code1Sprint for permission via:
+  - Website: https://code1sprint.vercel.app/
+  - GitHub:  https://github.com/code1sprint
+
+Unauthorized use constitutes a violation of this license and applicable law.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------------------
+
+Without written permission from Code1Sprint, you must NOT:
+
+  (a) Clone, fork, or mirror this repository for production use;
+  (b) Deploy the Software to any public or private hosting environment;
+  (c) Remove or alter copyright notices, branding, or attribution to Code1Sprint;
+  (d) Create derivative works based on the Software;
+  (e) Include the Software in any product, template marketplace, or SaaS offering.
+
+--------------------------------------------------------------------------------
+4. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+
+The Software may include open-source dependencies (e.g. React, Next.js,
+Three.js, Framer Motion, GSAP, Tailwind CSS, Radix UI) governed by their
+respective licenses. This license applies only to the BODY BUILDING project
+code and assets owned or distributed by Code1Sprint. Use of third-party
+packages remains subject to their own license terms.
+
+--------------------------------------------------------------------------------
+5. DISCLAIMER
+--------------------------------------------------------------------------------
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL CODE1SPRINT
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE
 SOFTWARE.
+
+--------------------------------------------------------------------------------
+6. TERMINATION
+--------------------------------------------------------------------------------
+
+Any permission granted by Code1Sprint may be revoked at any time. Upon
+revocation or breach of this license, you must immediately cease all use and
+destroy all copies of the Software in your possession.
+
+================================================================================
+
+For licensing inquiries:
+  - https://code1sprint.vercel.app/
+  - https://github.com/code1sprint
+
+================================================================================
